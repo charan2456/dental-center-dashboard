@@ -209,9 +209,6 @@ Build the project using `npm run build` and deploy the `dist` folder.
 
 This project is developed for educational and demonstration purposes.
 
-## 👥 Team
-
-Developed by the dental care management team with focus on user experience and functionality.
 
 ---
 
